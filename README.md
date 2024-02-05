@@ -1,9 +1,9 @@
+!["dio_logo"](https://digitalinnovationone.github.io/roadmaps/assets/logo-dio.svg)
+
 # dio-lab-azure-ml
 Repositório do desafio DIO - Trabalhando com Machine Learning na Prática no Azure ML
 
 Neste projeto nos trabalhamos na implementação de um modelo de previsão dos aluguéis de bicicletas utilizando a base de dados mslearn-bike-rental utilizando o serviço de Machine Learning do Azure.
-
-!["dio_logo"](https://www.ifsc.edu.br/documents/1035121/2170426/dio.png/ab47310a-b7a6-49d2-b3c1-72e88a7c99ed?t=1625144670996)
 
 ## Passos para realização do desafio
 
